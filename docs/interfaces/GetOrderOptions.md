@@ -6,14 +6,14 @@
 
 ### Properties
 
-- [out\_trade\_no](GetOrderOptions.md#out_trade_no)
+- [out_trade_no](GetOrderOptions.md#out_trade_no)
 
 ## Properties
 
-### out\_trade\_no
+### out_trade_no
 
-• **out\_trade\_no**: `string`
+• **out_trade_no**: `string`
 
 #### Defined in
 
-[sdk.ts:41](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L41)
+[sdk.ts:41](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L41)

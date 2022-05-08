@@ -6,34 +6,34 @@
 
 ### Properties
 
-- [amount\_total](AliOptions.md#amount_total)
-- [callback\_url](AliOptions.md#callback_url)
+- [amount_total](AliOptions.md#amount_total)
+- [callback_url](AliOptions.md#callback_url)
 - [description](AliOptions.md#description)
-- [out\_trade\_no](AliOptions.md#out_trade_no)
-- [share\_code](AliOptions.md#share_code)
+- [out_trade_no](AliOptions.md#out_trade_no)
+- [share_code](AliOptions.md#share_code)
 - [url](AliOptions.md#url)
 
 ## Properties
 
-### amount\_total
+### amount_total
 
-• **amount\_total**: `number`
-
-#### Defined in
-
-[sdk.ts:31](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L31)
-
-___
-
-### callback\_url
-
-• `Optional` **callback\_url**: `string`
+• **amount_total**: `number`
 
 #### Defined in
 
-[sdk.ts:33](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L33)
+[sdk.ts:31](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L31)
 
-___
+---
+
+### callback_url
+
+• `Optional` **callback_url**: `string`
+
+#### Defined in
+
+[sdk.ts:33](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L33)
+
+---
 
 ### description
 
@@ -41,29 +41,29 @@ ___
 
 #### Defined in
 
-[sdk.ts:30](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L30)
+[sdk.ts:30](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L30)
 
-___
+---
 
-### out\_trade\_no
+### out_trade_no
 
-• `Optional` **out\_trade\_no**: `string`
-
-#### Defined in
-
-[sdk.ts:32](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L32)
-
-___
-
-### share\_code
-
-• `Optional` **share\_code**: `string`
+• `Optional` **out_trade_no**: `string`
 
 #### Defined in
 
-[sdk.ts:29](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L29)
+[sdk.ts:32](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L32)
 
-___
+---
+
+### share_code
+
+• `Optional` **share_code**: `string`
+
+#### Defined in
+
+[sdk.ts:29](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L29)
+
+---
 
 ### url
 
@@ -71,4 +71,4 @@ ___
 
 #### Defined in
 
-[sdk.ts:28](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L28)
+[sdk.ts:28](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L28)

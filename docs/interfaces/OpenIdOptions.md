@@ -6,14 +6,14 @@
 
 ### Properties
 
-- [target\_url](OpenIdOptions.md#target_url)
+- [target_url](OpenIdOptions.md#target_url)
 
 ## Properties
 
-### target\_url
+### target_url
 
-• **target\_url**: `string`
+• **target_url**: `string`
 
 #### Defined in
 
-[sdk.ts:45](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L45)
+[sdk.ts:45](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L45)

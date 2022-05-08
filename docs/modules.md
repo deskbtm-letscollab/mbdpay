@@ -27,7 +27,7 @@
 
 ### Variables
 
-- [MBD\_PAY](modules.md#mbd_pay)
+- [MBD_PAY](modules.md#mbd_pay)
 
 ## Type aliases
 
@@ -37,21 +37,21 @@
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `appId` | `string` |
+| Name     | Type     |
+| :------- | :------- |
+| `appId`  | `string` |
 | `appKey` | `string` |
 
 #### Defined in
 
-[nest.ts:16](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/nest.ts#L16)
+[nest.ts:16](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/nest.ts#L16)
 
 ## Variables
 
-### MBD\_PAY
+### MBD_PAY
 
-• `Const` **MBD\_PAY**: ``"mdb_pay"``
+• `Const` **MBD_PAY**: `"mdb_pay"`
 
 #### Defined in
 
-[nest.ts:14](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/nest.ts#L14)
+[nest.ts:14](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/nest.ts#L14)

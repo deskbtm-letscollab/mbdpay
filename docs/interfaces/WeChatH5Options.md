@@ -6,23 +6,23 @@
 
 ### Properties
 
-- [amount\_total](WeChatH5Options.md#amount_total)
+- [amount_total](WeChatH5Options.md#amount_total)
 - [channel](WeChatH5Options.md#channel)
 - [description](WeChatH5Options.md#description)
-- [out\_trade\_no](WeChatH5Options.md#out_trade_no)
-- [share\_code](WeChatH5Options.md#share_code)
+- [out_trade_no](WeChatH5Options.md#out_trade_no)
+- [share_code](WeChatH5Options.md#share_code)
 
 ## Properties
 
-### amount\_total
+### amount_total
 
-• **amount\_total**: `number`
+• **amount_total**: `number`
 
 #### Defined in
 
-[sdk.ts:24](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L24)
+[sdk.ts:24](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L24)
 
-___
+---
 
 ### channel
 
@@ -30,9 +30,9 @@ ___
 
 #### Defined in
 
-[sdk.ts:20](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L20)
+[sdk.ts:20](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L20)
 
-___
+---
 
 ### description
 
@@ -40,24 +40,24 @@ ___
 
 #### Defined in
 
-[sdk.ts:22](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L22)
+[sdk.ts:22](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L22)
 
-___
+---
 
-### out\_trade\_no
+### out_trade_no
 
-• `Optional` **out\_trade\_no**: `string`
-
-#### Defined in
-
-[sdk.ts:23](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L23)
-
-___
-
-### share\_code
-
-• `Optional` **share\_code**: `string`
+• `Optional` **out_trade_no**: `string`
 
 #### Defined in
 
-[sdk.ts:21](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L21)
+[sdk.ts:23](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L23)
+
+---
+
+### share_code
+
+• `Optional` **share_code**: `string`
+
+#### Defined in
+
+[sdk.ts:21](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L21)

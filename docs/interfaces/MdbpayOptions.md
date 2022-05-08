@@ -17,9 +17,9 @@
 
 #### Defined in
 
-[sdk.ts:6](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L6)
+[sdk.ts:6](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L6)
 
-___
+---
 
 ### openIdUrl
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[sdk.ts:7](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L7)
+[sdk.ts:7](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L7)

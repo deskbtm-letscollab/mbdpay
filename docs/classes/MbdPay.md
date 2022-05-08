@@ -10,8 +10,8 @@
 
 ### Properties
 
-- [#BASE\_URL](MbdPay.md##base_url)
-- [#OPENID\_URL](MbdPay.md##openid_url)
+- [#BASE_URL](MbdPay.md##base_url)
+- [#OPENID_URL](MbdPay.md##openid_url)
 - [#client](MbdPay.md##client)
 - [basicOptions](MbdPay.md#basicoptions)
 
@@ -34,37 +34,37 @@
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `appId` | `string` |
-| `appKey` | `string` |
+| Name       | Type                                              |
+| :--------- | :------------------------------------------------ |
+| `appId`    | `string`                                          |
+| `appKey`   | `string`                                          |
 | `options?` | [`MdbpayOptions`](../interfaces/MdbpayOptions.md) |
 
 #### Defined in
 
-[sdk.ts:56](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L56)
+[sdk.ts:56](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L56)
 
 ## Properties
 
-### #BASE\_URL
+### #BASE_URL
 
-• `Private` **#BASE\_URL**: `string` = `'https://api.mianbaoduo.com'`
-
-#### Defined in
-
-[sdk.ts:49](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L49)
-
-___
-
-### #OPENID\_URL
-
-• `Private` **#OPENID\_URL**: `string` = `'https://mbd.pub/openid'`
+• `Private` **#BASE_URL**: `string` = `'https://api.mianbaoduo.com'`
 
 #### Defined in
 
-[sdk.ts:50](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L50)
+[sdk.ts:49](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L49)
 
-___
+---
+
+### #OPENID_URL
+
+• `Private` **#OPENID_URL**: `string` = `'https://mbd.pub/openid'`
+
+#### Defined in
+
+[sdk.ts:50](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L50)
+
+---
 
 ### #client
 
@@ -72,9 +72,9 @@ ___
 
 #### Defined in
 
-[sdk.ts:52](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L52)
+[sdk.ts:52](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L52)
 
-___
+---
 
 ### basicOptions
 
@@ -82,7 +82,7 @@ ___
 
 #### Defined in
 
-[sdk.ts:54](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L54)
+[sdk.ts:54](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L54)
 
 ## Methods
 
@@ -92,9 +92,9 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `options` | `Record`<`string`, `any`\> |
+| Name        | Type                       |
+| :---------- | :------------------------- |
+| `options`   | `Record`<`string`, `any`\> |
 | `addition?` | `Record`<`string`, `any`\> |
 
 #### Returns
@@ -103,9 +103,9 @@ ___
 
 #### Defined in
 
-[sdk.ts:77](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L77)
+[sdk.ts:77](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L77)
 
-___
+---
 
 ### #getSign
 
@@ -113,10 +113,10 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type                       |
+| :-------- | :------------------------- |
 | `options` | `Record`<`string`, `any`\> |
-| `appKey` | `string` |
+| `appKey`  | `string`                   |
 
 #### Returns
 
@@ -124,9 +124,9 @@ ___
 
 #### Defined in
 
-[sdk.ts:70](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L70)
+[sdk.ts:70](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L70)
 
-___
+---
 
 ### aliPay
 
@@ -136,8 +136,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type                                        |
+| :-------- | :------------------------------------------ |
 | `options` | [`AliOptions`](../interfaces/AliOptions.md) |
 
 #### Returns
@@ -146,9 +146,9 @@ ___
 
 #### Defined in
 
-[sdk.ts:114](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L114)
+[sdk.ts:114](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L114)
 
-___
+---
 
 ### getOpenId
 
@@ -158,8 +158,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type                                              |
+| :-------- | :------------------------------------------------ |
 | `options` | [`OpenIdOptions`](../interfaces/OpenIdOptions.md) |
 
 #### Returns
@@ -168,9 +168,9 @@ ___
 
 #### Defined in
 
-[sdk.ts:87](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L87)
+[sdk.ts:87](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L87)
 
-___
+---
 
 ### getOrder
 
@@ -180,8 +180,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type                                                  |
+| :-------- | :---------------------------------------------------- |
 | `options` | [`GetOrderOptions`](../interfaces/GetOrderOptions.md) |
 
 #### Returns
@@ -190,9 +190,9 @@ ___
 
 #### Defined in
 
-[sdk.ts:132](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L132)
+[sdk.ts:132](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L132)
 
-___
+---
 
 ### refund
 
@@ -202,8 +202,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type                                              |
+| :-------- | :------------------------------------------------ |
 | `options` | [`RefundOptions`](../interfaces/RefundOptions.md) |
 
 #### Returns
@@ -212,9 +212,9 @@ ___
 
 #### Defined in
 
-[sdk.ts:123](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L123)
+[sdk.ts:123](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L123)
 
-___
+---
 
 ### weChatPay
 
@@ -224,8 +224,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type                                              |
+| :-------- | :------------------------------------------------ |
 | `options` | [`WeChatOptions`](../interfaces/WeChatOptions.md) |
 
 #### Returns
@@ -234,9 +234,9 @@ ___
 
 #### Defined in
 
-[sdk.ts:96](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L96)
+[sdk.ts:96](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L96)
 
-___
+---
 
 ### weChatPayH5
 
@@ -246,8 +246,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type                                                  |
+| :-------- | :---------------------------------------------------- |
 | `options` | [`WeChatH5Options`](../interfaces/WeChatH5Options.md) |
 
 #### Returns
@@ -256,4 +256,4 @@ ___
 
 #### Defined in
 
-[sdk.ts:105](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L105)
+[sdk.ts:105](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L105)

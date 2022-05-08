@@ -6,14 +6,14 @@
 
 ### Properties
 
-- [order\_id](RefundOptions.md#order_id)
+- [order_id](RefundOptions.md#order_id)
 
 ## Properties
 
-### order\_id
+### order_id
 
-• **order\_id**: `string`
+• **order_id**: `string`
 
 #### Defined in
 
-[sdk.ts:37](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L37)
+[sdk.ts:37](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/sdk.ts#L37)

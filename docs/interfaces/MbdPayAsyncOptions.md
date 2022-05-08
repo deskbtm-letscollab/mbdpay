@@ -4,9 +4,9 @@
 
 ## Type parameters
 
-| Name | Type |
-| :------ | :------ |
-| `T` | [`MbdPayOptions`](../modules.md#mbdpayoptions) |
+| Name | Type                                           |
+| :--- | :--------------------------------------------- |
+| `T`  | [`MbdPayOptions`](../modules.md#mbdpayoptions) |
 
 ## Table of contents
 
@@ -27,9 +27,9 @@
 
 #### Defined in
 
-[nest.ts:29](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/nest.ts#L29)
+[nest.ts:29](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/nest.ts#L29)
 
-___
+---
 
 ### inject
 
@@ -37,7 +37,7 @@ ___
 
 #### Defined in
 
-[nest.ts:27](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/nest.ts#L27)
+[nest.ts:27](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/nest.ts#L27)
 
 ## Methods
 
@@ -49,8 +49,8 @@ Factory function that returns an instance of the provider to be injected.
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type    |
+| :-------- | :------ |
 | `...args` | `any`[] |
 
 #### Returns
@@ -59,4 +59,4 @@ Factory function that returns an instance of the provider to be injected.
 
 #### Defined in
 
-[nest.ts:25](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/nest.ts#L25)
+[nest.ts:25](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/nest.ts#L25)

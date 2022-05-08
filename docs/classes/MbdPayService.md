@@ -32,13 +32,13 @@
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name       | Type                                           |
+| :--------- | :--------------------------------------------- |
 | `options?` | [`MbdPayOptions`](../modules.md#mbdpayoptions) |
 
 #### Defined in
 
-[nest.ts:55](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/nest.ts#L55)
+[nest.ts:55](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/nest.ts#L55)
 
 ## Properties
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[nest.ts:53](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/nest.ts#L53)
+[nest.ts:53](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/nest.ts#L53)
 
 ## Accessors
 
@@ -62,7 +62,7 @@
 
 #### Defined in
 
-[nest.ts:66](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/nest.ts#L66)
+[nest.ts:66](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/nest.ts#L66)
 
 ## Methods
 
@@ -80,4 +80,4 @@ OnModuleDestroy.onModuleDestroy
 
 #### Defined in
 
-[nest.ts:62](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/nest.ts#L62)
+[nest.ts:62](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/nest.ts#L62)

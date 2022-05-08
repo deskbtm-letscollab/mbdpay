@@ -27,8 +27,8 @@
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name       | Type                                           |
+| :--------- | :--------------------------------------------- |
 | `options?` | [`MbdPayOptions`](../modules.md#mbdpayoptions) |
 
 #### Returns
@@ -37,9 +37,9 @@
 
 #### Defined in
 
-[nest.ts:74](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/nest.ts#L74)
+[nest.ts:74](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/nest.ts#L74)
 
-___
+---
 
 ### forRootAsync
 
@@ -47,8 +47,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name       | Type                                                                                                         |
+| :--------- | :----------------------------------------------------------------------------------------------------------- |
 | `options?` | [`MbdPayAsyncOptions`](../interfaces/MbdPayAsyncOptions.md)<[`MbdPayOptions`](../modules.md#mbdpayoptions)\> |
 
 #### Returns
@@ -57,4 +57,4 @@ ___
 
 #### Defined in
 
-[nest.ts:83](https://github.com/nawb-letscollab/mbdpay/blob/b88957d/src/nest.ts#L83)
+[nest.ts:83](https://github.com/deskbtm-letscollab/mbdpay/blob/b88957d/src/nest.ts#L83)
